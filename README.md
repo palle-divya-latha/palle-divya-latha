@@ -1,4 +1,4 @@
-![js](https://github.com/palle-divya-latha/palle-divya-latha/assets/125431563/8f442644-5e25-4cfd-a175-509aa7d1e9fb)
+
 ### Hi there 👋, I am Palle Divya Latha 
 
 #### A passionate Web Developer
