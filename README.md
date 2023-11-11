@@ -1,3 +1,4 @@
+![in (1)](https://github.com/palle-divya-latha/palle-divya-latha/assets/125431563/3185baa9-8620-4cd5-8f5f-2d106a9d0058)
 
 
 ### Hi there 👋, I am Palle Divya Latha 
@@ -8,7 +9,7 @@ A passionate and competent full stack web developer with understanding of the de
 
 ####                                                                               Technology Stack:
 
-html css <img src="https://github.com/palle-divya-latha/palle-divya-latha/assets/125431563/3874340e-7ab9-4617-8177-b1e8d0488ecf" width="100" height="30" />
+<img src="https://github.com/palle-divya-latha/palle-divya-latha/assets/125431563/3185baa9-8620-4cd5-8f5f-2d106a9d0058" width="100" height="30" /> css <img src="https://github.com/palle-divya-latha/palle-divya-latha/assets/125431563/3874340e-7ab9-4617-8177-b1e8d0488ecf" width="100" height="30" />
  react redux json bootstrap nodejs expressjs mongoDB java python vscode codesand codepen replit netlify github
 
 
