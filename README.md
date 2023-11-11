@@ -7,7 +7,7 @@ A passionate and competent full stack web developer with understanding of the de
 
 #### Technology Stack:
 
-html css <img src="https://github.com/palle-divya-latha/palle-divya-latha/assets/125431563/9b0ed6a1-9859-4253-af40-09d4ce6b0d75" width="80" height="50" />
+html css <img src="https://github.com/palle-divya-latha/palle-divya-latha/assets/125431563/b1db6ac5-69cc-4e9a-836c-3b0dbaea46105" width="80" height="50" />
  react redux json bootstrap nodejs expressjs mongoDB java python vscode codesand codepen replit netlify github
 
 
