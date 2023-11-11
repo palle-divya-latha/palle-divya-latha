@@ -6,7 +6,7 @@ A passionate and competent full stack web developer with understanding of the de
 
 #### Technology Stack:
 
-html css <img src="https://veriakademi.com/images/javascript-proje.png" width="200" height="120" />
+html css <img src="https://veriakademi.com/images/javascript-proje.png" width="100" height="50" border-radius="10" />
  react redux json bootstrap nodejs expressjs mongoDB java python vscode codesand codepen replit netlify github
 
 
