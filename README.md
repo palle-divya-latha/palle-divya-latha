@@ -13,8 +13,9 @@ A passionate and competent full stack web developer with understanding of the de
 <img src="https://github.com/palle-divya-latha/palle-divya-latha/assets/125431563/23b6eb03-5ca0-4a1a-a354-a1196d567fac" width="70" height="80" /> 
 <img src="https://github.com/palle-divya-latha/palle-divya-latha/assets/125431563/6a2115da-bf8a-489a-94cb-b4a825aff7c3" width="70" height="80" />
  <img src="https://github.com/palle-divya-latha/palle-divya-latha/assets/125431563/3874340e-7ab9-4617-8177-b1e8d0488ecf" width="100" height="30" />
- <img src="https://github.com/palle-divya-latha/palle-divya-latha/assets/125431563/562582ad-3b46-4459-be71-981c59384c0b" width="70" height="80" /> redux json bootstrap nodejs expressjs mongoDB java python vscode codesand codepen replit netlify github
-![in](https://github.com/palle-divya-latha/palle-divya-latha/assets/125431563/23b6eb03-5ca0-4a1a-a354-a1196d567fac)
+ <img src="https://github.com/palle-divya-latha/palle-divya-latha/assets/125431563/93fcd09f-fb4a-4197-9053-c46aefba444c" width="70" height="80" /> redux json bootstrap nodejs expressjs mongoDB java python vscode codesand codepen replit netlify github
+
+
 
 
 
